@@ -6,7 +6,9 @@ public class HelloJava {
 		int s = 5;
 		double age = 0.2;
 		int x,y,z;
-		System.out.println(s+age);
+		int value = 10;
+		int result = value + 10 ;
+		System.out.println(result);
 		
 	}
 }
